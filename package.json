@@ -1,0 +1,12 @@
+{
+    "name": "simple-web-project",
+    "version": "1.0.0",
+    "scripts": {
+        "test": "jest",
+        "build": "webpack --mode production"
+      },
+    "devDependencies": {
+      "jest": "^29.0.0"
+    }
+  }
+  
